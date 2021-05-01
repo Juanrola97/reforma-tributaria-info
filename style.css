@@ -1,0 +1,4 @@
+.background-title {
+    background: linear-gradient(90deg, rgb(235, 255, 12) 0%, rgb(43, 77, 255) 69%, rgb(223, 39, 39) 100%);
+    border-radius: 30px;
+}
